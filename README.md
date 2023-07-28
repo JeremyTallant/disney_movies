@@ -4,7 +4,7 @@ Since the 1930s, Walt Disney Studios has released more than 600 films covering a
 
 The dataset used in this project is a modified version of the Disney Character Success dataset from [Kelly Garrett](https://data.world/kgarrett/disney-character-success-00-16).
 ## Project Task
-1. The dataset
+1. **The dataset:**
 2. Top ten movies at the box office
 3. Movie genre trend
 4. Visualize the genre popularity trend
