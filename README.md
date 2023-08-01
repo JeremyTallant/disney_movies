@@ -7,7 +7,7 @@ The dataset used in this project is a modified version of the Disney Character S
 1. **The dataset:**
 2. **Top ten movies at the box office:**
 3. **Movie genre trend**
-4. Visualize the genre popularity trend
+4. **Visualize the genre popularity trend**
 5. Data transformation
 6. The genre effect
 7. Confidence intervals for regression parameters (i)
