@@ -10,7 +10,7 @@ The dataset used in this project is a modified version of the Disney Character S
 4. Visualize the genre popularity trend
 5. Data transformation
 6. The genre effect
-7. **Confidence intervals for regression parameters (i)**
+7. Confidence intervals for regression parameters (i)
 8. **Confidence intervals for regression parameters (ii)**
 9. **Confidence intervals for regression parameters (iii)**
 10. **Should Disney make more action and adventure movies?**
